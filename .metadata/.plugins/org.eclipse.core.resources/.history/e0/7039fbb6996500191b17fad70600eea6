@@ -1,0 +1,5 @@
+package com_05.hibernate5.inheritanceMapping.tablePerClass;
+
+public class HibernateTemplate {
+
+}

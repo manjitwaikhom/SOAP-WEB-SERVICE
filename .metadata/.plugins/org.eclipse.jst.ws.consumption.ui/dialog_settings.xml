@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="org.eclipse.jst.ws.client.type.java">
+		<item value="/WEB-SERVICE-PROXY-CLIENT-SOAP-JAX-RPC-AXIS-1/CalculatorService.wsdl"/>
+	</list>
+</section>

@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Rename resource &apos;005-DESIGN-PATTERNS&apos; to &apos;DESIGN-PATTERNS&apos;" description="Rename resource &apos;005-DESIGN-PATTERNS&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/005-DESIGN-PATTERNS" name="DESIGN-PATTERNS" stamp="1553147519182" updateReferences="true"/>&#x0A;<refactoring comment="Delete resource &apos;DESIGN-PATTERNS&apos;" deleteContents="true" description="Delete resource &apos;DESIGN-PATTERNS&apos;" element1="/DESIGN-PATTERNS" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1553148930480"/>
+</session>

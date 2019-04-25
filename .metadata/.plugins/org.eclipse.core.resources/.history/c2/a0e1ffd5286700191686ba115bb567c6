@@ -1,0 +1,10 @@
+package com.webservice.soap.axis1;
+
+public class MainAppTestClient {
+
+	public static void main(String[] args) {
+		URL endPointUrl= new Url();
+
+	}
+
+}

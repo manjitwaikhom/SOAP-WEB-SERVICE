@@ -1,0 +1,17 @@
+package com.webservice.soap.axis1;
+
+import java.net.URL;
+
+import org.apache.axis.client.Service;
+
+public class MainAppTestClient {
+
+	public static void main(String[] args) throws Exception{
+		String location="http://localhost:8080/WEB-SERVICE-SOAP-JAX-RPC-AXIS-1/services/CalculatorService";
+		Service service=new Service();
+		
+		URL endPointUrl= new URL(location);
+
+	}
+
+}

@@ -1,0 +1,14 @@
+1556001804765	Rename resource 'MySQLHibernate5DB.sql'
+1556003256486	Rename package 'com_03.hibernate5.inheritanceMapping.tablePerClass'
+1556003303665	Rename package 'com_02.hibernate5.collectionMapping'
+1556003507543	Rename package 'com_01.hibernate5.collectionMapping'
+1556003554509	Rename package 'com_02.hibernate5.collectionMapping'
+1556003568275	Delete element
+1556003572865	Delete element
+1556003600626	Rename package 'com_03.hibernate5.inheritanceMapping.tablePerSubclass'
+1556003610472	Rename package 'com_04.hibernate5.inheritanceMapping.tablePerClass'
+1556003772122	Rename package 'com_04.hibernate5.inheritanceMapping.tablePerSubclass'
+1556004637739	Copy compilation units
+1556004682169	Delete elements
+1556004691809	Copy compilation units
+1556006173453	Copy compilation units
